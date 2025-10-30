@@ -8,7 +8,7 @@ Utilities for:
 - **Visualizing** results with scatter plots comparing embedding families
 
 > ⚠️ This README covers only the *experiment*, *prediction*, and *plotting* scripts.  
-> It **does not** include the Maximal Independent Set (BLAST) deduplication pipeline.
+> It **does not** include the Maximal Independent Set (BLAST) pipeline.
 
 ---
 
