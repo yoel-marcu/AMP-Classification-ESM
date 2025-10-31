@@ -48,7 +48,7 @@ In order to use the experiment script you must have your train and test data sep
 
 | Column     | Description                                                  |
 | ---------- | ------------------------------------------------------------ |
-| `ID`       | Protein identifier — must match embedding filename `{ID}.pt` |
+| `ID`       | Protein identifier - must match embedding filename `{ID}.pt` |
 | `SEQUENCE` | Protein sequence (string)                                    |
 | `LABEL`    | Binary label (0 or 1)                                        |
 
@@ -184,8 +184,8 @@ python use_models.py \
 
 ### Plots Generated
 
-1. **`pr_by_embedding.png`** — Precision vs Recall per embedding
-2. **`mean_precision_vs_std_by_embedding.png`** — Mean CV Precision vs Std CV Precision (stability)
+1. **`pr_by_embedding.png`** - Precision vs Recall per embedding
+2. **`mean_precision_vs_std_by_embedding.png`** - Mean CV Precision vs Std CV Precision (stability)
 
 ### Inputs
 
